@@ -1,19 +1,19 @@
 <div id="header" align="center">
-  <img src="https://github.com/Eques72/Eques72/blob/main/Banner.png" width="2200" height="500"/>
+  <img src="https://github.com/Eques72/Eques72/blob/main/Banner.png" style="max-width: 100%; height: auto;"/>
 </div>
 
 ---
 ### About Me
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/adrian-zar%C4%99ba-5b1a702b1">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   <a href="https://gitlab.com/Eques72">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab Badge"/>
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=ea6a2c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <a href="mailto:adrian.zareba842@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a> 
 </div>
-<div id='views'>
+<div id='views' align="center">
 	<img src="https://komarev.com/ghpvc/?username=Eques72&style=flat-square&color=blue" alt=""/>
 </div>
 
