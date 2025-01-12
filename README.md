@@ -16,8 +16,10 @@
 <div id='views'>
 	<img src="https://komarev.com/ghpvc/?username=Eques72&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
 ### Programming Languages and Tools
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -34,7 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="GD" alt="GD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="Api" alt="Api" width="40" height="40"/>&nbsp;
 </div>
+
 ---
-<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eques72&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
