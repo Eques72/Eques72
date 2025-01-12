@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Eques72/Eques72/blob/main/Banner.png" width="1000"/>
+  <img src="https://github.com/Eques72/Eques72/blob/main/Banner.png" width="2200" height="500"/>
 </div>
 
 ---
