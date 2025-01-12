@@ -4,6 +4,7 @@
 
 ---
 ### About Me
+Hi, I’m Adrian, a developer with a passion for expanding my skills across various fields. In my projects I try to cover diverse topics, allowing me to expand my horizons.
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/adrian-zar%C4%99ba-5b1a702b1">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -35,6 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg" title="Gimp" alt="Gimp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="GD" alt="GD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="Api" alt="Api" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
 ---
