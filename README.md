@@ -4,7 +4,7 @@
 
 ---
 ### About Me
-Hi, I’m Adrian, a developer with a passion for expanding my skills across various fields. In my projects I try to cover diverse topics, allowing me to expand my horizons.
+Hi, I’m Adrian, a developer with an eagerness to grow and expand my skills across diverse fields. In my projects I push to cover diverse topics, allowing me to expand my horizons.
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/adrian-zar%C4%99ba-5b1a702b1">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
