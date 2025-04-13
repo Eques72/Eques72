@@ -40,4 +40,4 @@ Hi, I’m Adrian, a developer with an eagerness to grow and expand my skills acr
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eques72&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eques72&layout=compact&theme=vision-friendly-dark&langs_count=8&hide=shaderlab,hlsl,javascript)](https://github.com/anuraghazra/github-readme-stats)
